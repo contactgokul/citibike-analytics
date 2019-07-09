@@ -27,4 +27,8 @@ https://public.tableau.com/shared/Z6R3SX75C?:display_count=yes&:origin=viz_share
 ![Citi-Bikes7](image/city-officials.png)
 ![Citi-Bikes8](image/gender-distribution.png)
 
+## Technologies used
+![python](image/python.png)
+![tableau](image/tableau.png)
+
 Gokul@2019
